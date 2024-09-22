@@ -42,10 +42,15 @@ print(x>=y)'''
 
 
 # 4. Logical Operator
-x = 10
+'''x = 10
 print(x>4 and x<20)
 print(x<5 or x>20)
-print(not(x<20 and x>2 ))
+print(not(x<20 and x>2 ))'''
+
+# 5. Bitwise Operator
+
+
+
 
 
 

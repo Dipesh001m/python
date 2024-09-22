@@ -64,10 +64,12 @@ print(type(x))'''
 
 
 # 6. set
-# 5. set
-x = {"orange","mango","apple"}
+'''x = {"orange","mango","apple"}
 print(x)
 # Display datatypes of x
-print(type(x))
+print(type(x))'''
+
+
+
 
 

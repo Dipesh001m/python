@@ -1,12 +1,12 @@
-'''a = input("Enter your name ")
+"""a = input("Enter your name ")
 print(a)
-print(type(a))'''
+print(type(a))"""
 
 
 # to print remainder
-'''a = 450
+"""a = 450
 b = 12
-print("the remainder is ", a%b)'''
+print("the remainder is ", a%b)"""
 
 
 # To find average of two number

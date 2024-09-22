@@ -97,6 +97,12 @@ else:
 
 # 10. write a program to wipe out a content of file ( wipe means to delete a file content )
 
-filename = "poems.txt"
+'''filename = "poems.txt"   # it delete all files which present in poems.txt
 with open(filename,"w") as f:
-    f.write("")
+    f.write("")'''
+    
+    
+
+# 11. Write a program to rename a file to "remove_by_python.txt"
+
+

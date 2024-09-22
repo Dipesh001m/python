@@ -46,7 +46,7 @@ f = farh(c)
 print("Fahreheit Temperature is " + str(f))'''
 
 
-#
+# sum of natural number by recursion method
 def sum(n):
     if(n==1):
         return 1

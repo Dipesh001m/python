@@ -30,31 +30,31 @@ print("Good Afternoon " + name)'''
 
 
 # 2
-#letter = '''Dear <|NAME|>,
-#Greeting from ABC CODING house 
-#You are selected!
+letter = '''Dear <|NAME|>,
+Greeting from ABC CODING house 
+You are selected!
 
-#Date: <|DATE|>'''
+Date: <|DATE|>'''
 
-#name = input("Enter your name\n")
-#date = input("Enter date\n")
-#letter = letter.replace("<|NAME|>", name)
-#letter = letter.replace("<|DATE|>", date)
+name = input("Enter your name\n")
+date = input("Enter date\n")
+letter = letter.replace("<|NAME|>", name)
+letter = letter.replace("<|DATE|>", date)
 
-#print(letter)
+print(letter)
 
 
 # 3.
-'''st = "This is a string with double  spaces"
+"""st = "This is a string with double  spaces"
 doubleSpaces = st.find("  ")
-print(doubleSpaces)'''
+print(doubleSpaces)"""
 
 
 # 4.
-letter = "Dear Dipesh this a nice python course thanks!"
+"""letter = "Dear Dipesh this a nice python course thanks!"
 print(letter)
 formatted_letter = "Dear Dipesh,\n\t this course is nice\n thanks!"
-print(formatted_letter)
+print(formatted_letter)"""
 
 
 

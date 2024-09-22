@@ -91,6 +91,9 @@ for i in range(1, num+1):
     print(f"The factorial is",factorial)'''
 
 #  5.
-n = 4
+'''n = 4
 for i in range(4):
-    print("*" * (i+1))
+    print("*" * (i+1))'''
+
+# 6.
+

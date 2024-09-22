@@ -95,7 +95,7 @@ print(v1*v2)"""
 
 
 # 6.
-class vector:
+"""class vector:
     def __init__(self, vec):
         self.vec = vec
         
@@ -106,5 +106,5 @@ class vector:
 v1 = vector([1, 4, 5])
 v2 = vector([1, 6, 6])
 print(v1)
-print(v2)
+print(v2)"""
 

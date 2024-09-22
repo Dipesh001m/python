@@ -1,4 +1,4 @@
-
+# filter syntax: list(filter(function, list))
 def greater_than_5(num):
     if num > 5:
         return True

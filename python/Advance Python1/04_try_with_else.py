@@ -4,6 +4,6 @@ try:
     
 except Exception as e:
     print(e)
-else:
+else:   # agar try bina kisi hasal k print hojayega too else print hoga verna nahi hoga 
     print("WE were sucessful")
   

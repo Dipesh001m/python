@@ -23,8 +23,10 @@ print(list(a))"""
 
 
 # 5.
-from functools import reduce
+"""from functools import reduce
 l = [3,8,5,4,3]
 
 a = reduce(max, l)
-print(a)
+print(a)"""
+
+# 6.
